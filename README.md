@@ -1,7 +1,7 @@
 # HW_2
 第二个作业，三分类。.csv是输出结果；.png是训练过程，混淆矩阵。
 
-train2.py：训练代码，生成scaler.dump、model.m（模型）、Confusion Matrix for Galaxy3.png
+train2.py：训练代码，生成scaler.dump、model.m（模型，模型大于25M没有上传成功，训练的时间大约需要半个小时）、Confusion Matrix for Galaxy3.png
 
 test.py：测试，生成.csv文件
 
